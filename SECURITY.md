@@ -26,4 +26,4 @@ quickly as possible, depending on the complexity and severity.
 - **Disclosure**: I may provide credit to the reporter upon request and after
 the issue is resolved.
 
-Thank you for helping us keep ***tat-go*** secure!
+Thank you for helping us keep ***tat-go*** secure.

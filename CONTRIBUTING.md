@@ -35,4 +35,4 @@ I aim to maintain a welcoming and inclusive environment for all contributors.
 Please communicate respectfully and constructively. Disrespectful or
 inappropriate behavior will not be tolerated.
 
-Thank you for helping make ***tat-go*** a valuable tool for the community!
+Thank you for helping make ***tat-go*** a valuable tool for the community.
