@@ -22,6 +22,10 @@ jobs:
         with:
           config: gitleaks.toml
 
+      - name: Install Proselint
+        run: |
+          pip install proselint
+          
       - name: Proselint for Grammar and Style
         run: |
           proselint README.md
