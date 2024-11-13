@@ -38,4 +38,3 @@ project does not provide any commercial guarantees or usage warranties and is
 not liable for any direct or indirect damages arising from its use under any
 circumstances. Use of ***tat-go*** is at your own discretion, and users are
 encouraged to review the code to meet their specific needs.
-
