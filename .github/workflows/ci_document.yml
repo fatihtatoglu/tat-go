@@ -28,4 +28,4 @@ jobs:
           
       - name: Proselint for Grammar and Style
         run: |
-          proselint README.md
+          proselint *.md
