@@ -18,7 +18,8 @@ Describe the updates, corrections, or additional information you are proposing.
 
 ### Purpose and Benefit
 
-Explain how this documentation change will benefit the users or improve the project.
+Explain how this documentation change will benefit the users or improve the
+project.
 
 ### Additional Information
 

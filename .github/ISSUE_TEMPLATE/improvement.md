@@ -10,16 +10,20 @@ assignees: fatihtatoglu
 
 ### Area for Improvement
 
-Specify the feature, component, or section of the project that needs improvement.
+Specify the feature, component, or section of the project that needs
+improvement.
 
 ### Your Suggestion
 
-Provide a detailed description of the improvement you are proposing. Please include specific details on what changes would be made.
+Provide a detailed description of the improvement you are proposing. Please
+include specific details on what changes would be made.
 
 ### Expected Benefits
 
-Explain how this improvement would enhance the project or solve an existing issue.
+Explain how this improvement would enhance the project or solve an existing
+issue.
 
 ### Additional Information
 
-Include any additional context, references, or resources that support your suggestion.
+Include any additional context, references, or resources that support your
+suggestion.

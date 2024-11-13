@@ -7,7 +7,8 @@ assignees: fatihtatoglu
 
 # Summary
 
-Provide a concise summary of the purpose and motivation behind this pull request.
+Provide a concise summary of the purpose and motivation behind this pull
+request.
 
 ## Changes
 
@@ -33,13 +34,17 @@ List and briefly describe the key changes made in this PR:
 
 ### Related Issues
 
-Link to the relevant issue(s) that this pull request addresses, if any (e.g., #123).
+Link to the relevant issue(s) that this pull request addresses,
+if any (e.g., #123).
 
 ### Security Considerations
 
 - [ ] Have you checked for potential security issues in your changes?
-- [ ] Have any dependencies or libraries been updated? If so, have they been vetted for security?
+- [ ] Have any dependencies or libraries been updated? If so, have they been
+vetted for security?
 
 ## Additional Notes
 
-Include any additional information or context here that reviewers may find helpful, such as screenshots, references to related discussions, or further clarifications.
+Include any additional information or context here that reviewers may find
+helpful, such as screenshots, references to related discussions, or further
+clarifications.

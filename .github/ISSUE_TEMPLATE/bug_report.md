@@ -15,8 +15,8 @@ Provide a clear and concise description of the bug you encountered.
 ### Steps to Reproduce
 
 1. List each step required to reproduce the bug.
-2. 
-3. 
+2. item...
+3. item...
 
 ### Expected Behavior
 
